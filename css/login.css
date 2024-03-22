@@ -1,0 +1,22 @@
+.login-container {
+  margin-top: 50px;
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #bf7b7b;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container .form-group {
+  margin-bottom: 20px;
+}
+
+.login-container .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.login-container .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
